@@ -1,0 +1,51 @@
+.card{
+    position: relative;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    width: 20%;
+    margin: 30px;
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 20px;
+    height: 60%;
+}
+
+.card-title{
+    color: #232323;
+}
+
+.card-description{
+    color: #444;
+}
+
+.card-url{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+    background-color: #778aea;
+    padding: 10px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.card-url a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+.card-footer{
+    width: 100%;
+    margin-top: 15px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.card-bottom{
+    position: absolute;
+    bottom: 20px;
+}
+
+.card-date{
+   
+}
