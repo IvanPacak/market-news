@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/market-news/static/css/main.51037738.css",
+    "main.js": "/market-news/static/js/main.c9c72534.js",
+    "index.html": "/market-news/index.html",
+    "main.51037738.css.map": "/market-news/static/css/main.51037738.css.map",
+    "main.c9c72534.js.map": "/market-news/static/js/main.c9c72534.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51037738.css",
+    "static/js/main.c9c72534.js"
+  ]
+}
